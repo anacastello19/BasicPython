@@ -1,0 +1,8 @@
+Lista en Python
+Para crear una lista, simplemente encierra los elementos que quieres incluir entre corchetes []
+y sepáralos por comas. Los elementos pueden ser de cualquier tipo de dato:
+->Como números
+->Cadenas de texto
+->Booleanos,
+ e incluso otras listas.
+
